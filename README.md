@@ -18,9 +18,9 @@
 
 1. XGBoost
 
-    '''
+    """
     ! pip install xgboost
-    '''
+    """
 
 
 ## Libraries Used 
